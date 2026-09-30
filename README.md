@@ -1,8 +1,5 @@
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./profile-dark.svg">
-    <img alt="Rajeev K — Insurance and Healthcare Operations" src="./profile-light.svg" width="100%">
-  </picture>
+  <img src="https://raw.githubusercontent.com/rajuten04/rajuten04/main/profile-dark.svg" alt="Rajeev K — Insurance and Healthcare Operations" width="100%">
 </p>
 
 <p align="center">
